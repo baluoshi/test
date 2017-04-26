@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env python  谢克作品
 import socket
 host = ''
 port = 50007
